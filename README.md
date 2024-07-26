@@ -24,6 +24,7 @@ To clone and run this website locally, follow these steps:
 git clone https://github.com/Jainnehal/Portfolio.git
 cd Portfolio
 # Open index.html in your web browser
+```
 
 **Contributions**
 Contributions are always welcome! Please read the contribution guidelines first.
